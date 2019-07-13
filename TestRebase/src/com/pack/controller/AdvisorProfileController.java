@@ -6,3 +6,4 @@ public class AdvisorProfileController {
 		System.out.println("Advisor myProfile added by mybranch2");
 	}
 }
+
